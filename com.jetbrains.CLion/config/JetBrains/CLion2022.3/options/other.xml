@@ -1,0 +1,71 @@
+<application>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "ident\nmaterial icon\nmaterial\nmateri\nmate",
+    "MarketplacePluginsSearchHistory": "material icon\nicons\nCelestial\nC\n42",
+    "NextRunPlatformUpdateBuild": "CL-232.9921.42",
+    "NextRunPlatformUpdateVersion": "2023.2.2",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "identation\nation\nident\ntypo",
+    "appcds.runOnSecondStart": "CL-223.8836.42-074ecb9ca2edfae051b5bb4e067bbeeec9f611724a8197ff8f6845d3edaabd3c",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "CL-223.8836.42",
+    "clion.initialConfigPerformed": "true",
+    "evlsprt3.223": "23",
+    "file.gist.reindex.count": "26",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "CL-223.8836.42",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/nfs/homes/mloureir/Documents",
+    "previousColorScheme": "_@user_Celestial",
+    "qualified.names.node.provider.file.structure.state": "true",
+    "registry.to.advanced.settings.migration.build": "CL-223.8836.42",
+    "selected.color.option.type": "TYPO",
+    "settings.code.style.selected.tab.SQL": "Tabs and Indents",
+    "structure.view.defaults.are.configured": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/nfs/homes/mloureir/Documents"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1696867586149,
+    "SearchEverywhere": 1697013465756,
+    "GoToDeclaration": 1696927843856,
+    "ShowUsages": 1696867585516,
+    "FindInPath": 1696867581987
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Documents-history" project-path="$USER_HOME$/Documents" last-access-time="1696947252578" />
+    </command-history-files>
+  </component>
+</application>

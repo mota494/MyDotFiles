@@ -1,0 +1,175 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1696955249290" />
+    </e>
+    <e n="$SelectAll">
+      <i c="8" l="1696952565924" />
+    </e>
+    <e n="$Undo">
+      <i c="103" l="1697013722116" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="2" l="1696929855948" />
+    </e>
+    <e n="CPP.NewCppFile">
+      <i c="2" l="1696938400019" />
+    </e>
+    <e n="ChangesView.AddUnversioned">
+      <i c="1" l="1696938575727" />
+    </e>
+    <e n="CheckinProject">
+      <i c="4" l="1696952564543" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="1" l="1696936511865" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="14" l="1697013724733" />
+    </e>
+    <e n="ContextHelp">
+      <i c="2" l="1696948700562" />
+    </e>
+    <e n="ConvertIndentsToSpaces">
+      <i c="1" d="1" l="1696938581498" k="1696938581498" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1471" l="1696952642691" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="53" l="1696952452113" />
+    </e>
+    <e n="EditorCopy">
+      <i c="13" l="1696950213277" />
+    </e>
+    <e n="EditorCut">
+      <i c="42" l="1696952528544" />
+    </e>
+    <e n="EditorDelete">
+      <i c="25" l="1696949702652" />
+    </e>
+    <e n="EditorDown">
+      <i c="271" l="1696952642469" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1696929153218" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1696930687427" />
+    </e>
+    <e n="EditorEnter">
+      <i c="383" l="1696952648340" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1696928970703" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1696948189575" />
+    </e>
+    <e n="EditorLeft">
+      <i c="691" l="1696952533172" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1696935861033" />
+    </e>
+    <e n="EditorPaste">
+      <i c="52" l="1696952529549" />
+    </e>
+    <e n="EditorRight">
+      <i c="826" l="1696952534308" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="4" l="1696929150906" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="5" l="1696929151248" />
+    </e>
+    <e n="EditorTab">
+      <i c="102" l="1696950254015" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="4" l="1696945373785" />
+    </e>
+    <e n="EditorUp">
+      <i c="309" l="1696952530911" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="18" l="1696929152515" />
+    </e>
+    <e n="ExportSettings">
+      <i c="1" l="1697014289554" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="6" l="1696952687368" />
+    </e>
+    <e n="GotoAction">
+      <i c="2" l="1696938577311" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1696948696268" />
+    </e>
+    <e n="MethodUp">
+      <i c="1" l="1696929143396" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="1" l="1696948706077" />
+    </e>
+    <e n="ProblemsView.ShowPreview">
+      <i c="1" l="1696936097421" />
+    </e>
+    <e n="SaveAll">
+      <i c="546" l="1697013725581" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1696935845103" />
+    </e>
+    <e n="ShowSettings">
+      <i c="19" l="1696938607754" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="1" l="1696948183590" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="1" l="1696955247252" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="2" l="1696952600703" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1696866996584" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="1" l="1696928422646" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="6" l="1696928182072" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1696952583110" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="2" l="1696935845493" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+      <i c="1" l="1696867970214" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="16" l="1696949350416" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1696938581470" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1696955250558" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="5" l="1696954135314" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.cmake.workspace.CMakeNotificationProvider$1">
+      <i c="1" l="1696867966896" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1696867588209" />
+    </e>
+  </component>
+</application>

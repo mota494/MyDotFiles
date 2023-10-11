@@ -1,0 +1,2 @@
+atom-one
+com.markskelton.one-dark-theme
